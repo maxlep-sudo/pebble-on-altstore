@@ -1,0 +1,12 @@
+{
+  "name": "Pebble-on-Altstore",
+  "identifier": "com.getpebble.pebbletime",
+  "apps": [
+    {
+      "name": "Pebble Time",
+      "bundleIdentifier": "com.getpebble.pebbletime",
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/maxlep-sudo/pebble-on-altstore/raw/main/release/pebble-on-altstore.ipa"
+    }
+  ]
+}
